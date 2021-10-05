@@ -4,7 +4,7 @@
 - 📚 Estudando C#, .Net
 - 😄 Pronouns: ela/dela
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/silzagomes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=silzagomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silzagomes&layout=compact&langs_count=7&theme=dracula"/>

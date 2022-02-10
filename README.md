@@ -1,8 +1,9 @@
-### Olá! Eu sou a Silza 👋
+#### Olá! Eu sou a Silza 👋
 
 - 🌱 Hoje sou estudante de ADS.
+- 🔭 Tabalhando na Signa
 - 📚 Estudando C#, .Net
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/silzagomes">

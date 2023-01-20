@@ -1,8 +1,5 @@
-#### Olá! Eu sou a Silza 👋
-
-- 🌱 Hoje sou estudante de ADS.
-- 🔭 Tabalhando na Signa
-- 📚 Estudando C#, .Net
+#### Olá! Eu sou a Silza!
+Sou uma estudante apaixonada por programação, busco constantemente desafios e aprendizado para me tornar uma expert em tecnologia. 
 
 
   

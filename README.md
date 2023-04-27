@@ -15,7 +15,7 @@ Sou uma estudante apaixonada por programação, busco constantemente desafios e 
   
 ##
 
-  <div align="center">
+  <div align="center"><br>
   <a href="https://github.com/silzagomes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silzagomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silzagomes&layout=compact&langs_count=7&theme=radical"/>  

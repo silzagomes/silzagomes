@@ -12,7 +12,8 @@ Sou uma estudante apaixonada por programação, busco constantemente desafios e 
   
   
   </div>  
-| ------------- | ------------- |
+  
+
 
   <div align="center">
   <a href="https://github.com/silzagomes">
